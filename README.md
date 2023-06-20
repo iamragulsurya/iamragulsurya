@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 - 🔭 I’m currently studying at college
 - 🌱 I’m currently learning web development 
